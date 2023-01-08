@@ -16,8 +16,11 @@ In this exercise, we will write the appropriate data structure to maintain a thi
 It is not allowed to use the array in this program. Both input and output values ​​are separated by commas and there is no other space between them.
 
 Sample input:
+
 2,2,1,1,5,2,1,7
+
 2,2,2,2,3,1,1,8
+
 SUM
 
 Sample output:
