@@ -18,7 +18,9 @@ It is not allowed to use the array in this program. Both input and output values
 Sample input:
 
 2,2,1,1,5,2,1,7
+
 2,2,2,2,3,1,1,8
+
 SUM
 
 Sample output:
